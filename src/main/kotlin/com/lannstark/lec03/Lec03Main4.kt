@@ -23,7 +23,3 @@ fun main() {
     println(str2[0])
     println(str2[2])
 }
-
-fun fail(message: String): Nothing {
-    throw IllegalArgumentException(message)
-}

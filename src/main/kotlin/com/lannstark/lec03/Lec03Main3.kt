@@ -26,3 +26,7 @@ fun main() {
     실제로 많이 쓰이지는 않음
      */
 }
+
+fun fail(message: String): Nothing {
+    throw IllegalArgumentException(message)
+}
