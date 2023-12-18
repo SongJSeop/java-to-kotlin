@@ -1,6 +1,6 @@
 package com.lannstark.lec05
 
-// Lec04. 코틀린에서 조건문을 다루는 방법
+// Lec05. 코틀린에서 조건문을 다루는 방법
 // 1. if문
 // 2. Expression & Statement
 
