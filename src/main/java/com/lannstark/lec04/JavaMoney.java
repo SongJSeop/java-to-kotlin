@@ -8,7 +8,7 @@ public class JavaMoney implements Comparable<JavaMoney> {
 
   private final long amount;
 
-  public 법JavaMoney(long amount) {
+  public JavaMoney(long amount) {
     this.amount = amount;
   }
 
